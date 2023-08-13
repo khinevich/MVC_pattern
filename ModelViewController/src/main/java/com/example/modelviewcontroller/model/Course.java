@@ -10,9 +10,7 @@ public class Course extends Observable {
         this.name = name;
     }
 
-    public Course() {
-
-    }
+    public Course() {}
 
     public String getId() {
         return id;
